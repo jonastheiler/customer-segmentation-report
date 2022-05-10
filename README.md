@@ -48,7 +48,7 @@ the response of potentially future customers.
 #### Reflection
 
 Although the exercise was very taff (especially at the beginning) it was again a great experience for me and my data 
-science journey. Never the less, I would like to mention a few points:
+science journey. I would like to mention a few points:
 
 The data analysis at the beginning was the most difficult part. The cleaning process followed a logical structure, but 
 seemed a bit rudimentary. Apart from deleting columns and rows and transforming some other columns, there would be many 
