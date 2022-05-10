@@ -1,6 +1,6 @@
 # Capstone Project: Customer Segmentation Report
 
-You can find the corresponding article on Medium [here](https://medium.com/@jonas_theiler/capstone-project-customer-segmentation-report-74d094de5f).
+You can find the corresponding article on Medium [here](https://medium.com/@jonas_theiler/capstone-project-customer-segmentation-report-74d094de5ff6).
 
 ## Table of Contents
 
