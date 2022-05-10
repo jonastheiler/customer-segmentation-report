@@ -43,7 +43,8 @@ Officially stated in the problem description under [Udacity](https://www.udacity
 ## Results <a name="results"></a>
 
 The results are a cluster analysis of the customers of the company as well as a supervised learning model to predict 
-the response of potentially future customers.
+the response of potentially future customers. You can find detailed results either in the blog-post on Medium or in the
+Jupyter Notebook.
 
 
 
